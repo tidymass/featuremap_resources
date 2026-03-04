@@ -1,0 +1,7 @@
+name,version,file,url,md5
+metabolite_database_hmdb,1.0.0,hmdb_compound_ms1.rda,,
+metabolite_database_kegg,1.0.0,kegg_compound_ms1.rda,,
+mrn_hmdb,1.0.0,metabolic_reaction_network.rda,,
+mrn_kegg,1.0.0,metabolic_reaction_network.rda,,
+functional_reference_hmdb,1.0.0,hmdb_function.Rdata,,
+functional_reference_kegg,1.0.0,kegg_function.Rdata,,
