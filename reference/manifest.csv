@@ -1,4 +1,5 @@
 name,version,file,url,md5
+featuremap_compound,1.0.0,featuremap_compound.rda,,
 metabolite_database_hmdb,1.0.0,hmdb_compound_ms1.rda,,
 metabolite_database_kegg,1.0.0,kegg_compound_ms1.rda,,
 mrn_hmdb,1.0.0,metabolic_reaction_network.rda,,
